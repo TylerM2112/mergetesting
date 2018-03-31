@@ -4,5 +4,5 @@ function kickassproject(hardwork) {
     //Hi Brandon
     //Hi Tyler 2
 
-    //sdfsdf.sdfsdf
+    console.log('hell yeah -stone cold ET')
  }
