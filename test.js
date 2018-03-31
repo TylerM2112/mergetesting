@@ -6,5 +6,7 @@ function kickassproject(hardwork) {
 
     console.log('hell yeah -stone cold ET')
     console.log('hell yeah -Tyler')
+    console.log('hell yeah -Brandon')
+
 
  }
